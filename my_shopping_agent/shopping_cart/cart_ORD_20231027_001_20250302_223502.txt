@@ -1,0 +1,21 @@
+ORDER CONFIRMATION - ORD-20231027-001
+==================================================
+Purchase Date: 2025-03-02 22:35:02
+
+PRODUCT DETAILS:
+Product: perfume
+Product ID: 8
+Price: $9000
+Quality: high
+
+CUSTOMER INFORMATION:
+Name: Ayesha
+Address: karachi
+Phone: 0311234577
+
+ORDER STATUS:
+Payment Status: pending
+Shipping Status: pending
+Estimated Delivery: 2023-11-01 to 2023-11-03
+==================================================
+Thank you for shopping with us!

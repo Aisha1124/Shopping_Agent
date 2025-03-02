@@ -1,0 +1,21 @@
+interact_with_user:
+  description: >
+    Interact with the user, understand their shopping needs and extract relevant details.
+  expected_output: >
+    Entract with user and Understand their shopping needs from the prompt of user
+  agent: Orchestrator
+  
+extract_product_from_catalog:
+  description: >
+    Search the product catalog based on requirements provided by the orchestrator..
+  expected_output: >
+    A structured matching product from the Catalog on the requirements of the user
+  agent: Catalog
+
+extract_product_from_catalog:
+  description: >
+    Add user-confirmed products to a shopping cart and save the information in a text file.
+  expected_output: >
+    A text file containing the shopping cart with all selected products and relevant details.
+  agent: Cart
+  

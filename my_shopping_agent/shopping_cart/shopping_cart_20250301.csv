@@ -1,0 +1,2 @@
+timestamp,order_id,product_id,product_name,price,quality,customer_name,customer_address
+2025-03-01T12:22:38.940634,ORD-7985203563850320404,9,laptop,20000.0,high,Aisha,kharadar

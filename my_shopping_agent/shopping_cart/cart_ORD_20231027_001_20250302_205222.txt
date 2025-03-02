@@ -1,0 +1,21 @@
+ORDER CONFIRMATION - ORD-20231027-001
+==================================================
+Purchase Date: 2025-03-02 20:52:22
+
+PRODUCT DETAILS:
+Product: Laptop
+Product ID: 9
+Price: $20000
+Quality: high
+
+CUSTOMER INFORMATION:
+Name: Aisha Siddiqua
+Address: karachi
+Phone: 021232343
+
+ORDER STATUS:
+Payment Status: pending
+Shipping Status: pending
+Estimated Delivery: 2023-11-02 to 2023-11-06
+==================================================
+Thank you for shopping with us!

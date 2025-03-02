@@ -1,0 +1,2 @@
+order_id,product_name,product_id,price,quality,customer_name,customer_address,customer_phone,payment_status,shipping_status,estimated_delivery
+ORD-20231027-001,perfume,8,9000,high,Ayesha,karachi,0311234577,pending,pending,2023-11-01 to 2023-11-03

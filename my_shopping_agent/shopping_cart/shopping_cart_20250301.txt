@@ -1,0 +1,14 @@
+
+==================================================
+ORDER ADDED TO CART: 2025-03-01 12:22:38
+Order ID: ORD-7985203563850320404
+Product: laptop
+Product ID: 9
+Price: $20000.0
+Quality: high
+
+Customer Information:
+Name: Aisha
+Address: kharadar
+Phone: 031223244
+==================================================

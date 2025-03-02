@@ -1,0 +1,14 @@
+
+==================================================
+ORDER ADDED TO CART: 2025-03-02 15:06:47
+Order ID: ORD-2046872704080281875
+Product: laptop
+Product ID: 9
+Price: $20000.0
+Quality: high
+
+Customer Information:
+Name: Aisha Siddiqua
+Address: karachi
+Phone: 0312234355
+==================================================

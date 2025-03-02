@@ -1,0 +1,25 @@
+[project]
+name = "my_shopping_agent"
+version = "0.1.0"
+description = "my_shopping_agent using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "crewai-tools>=0.36.0",
+    "crewai[tools]>=0.98.0,<1.0.0",
+    "google-generativeai>=0.8.4",
+    "litellm>=1.60.2",
+    "pandas>=2.2.3",
+    "python-dotenv>=1.0.1",
+]
+
+[project.scripts]
+kickoff = "my_shopping_agent.main:kickoff"
+plot = "my_shopping_agent.main:plot"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "flow"
