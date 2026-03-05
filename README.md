@@ -1,7 +1,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-1C3C3C?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 # 🛒 CrewAI Shopping Agent
 A powerful shopping assistant built with CrewAI that helps users find products, manage their shopping cart, and complete purchases with a natural conversational interface.
