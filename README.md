@@ -1,9 +1,12 @@
-# CrewAI Shopping Agent
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-1C3C3C?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+# 🛒 CrewAI Shopping Agent
 A powerful shopping assistant built with CrewAI that helps users find products, manage their shopping cart, and complete purchases with a natural conversational interface.
 
 ## Overview
-
 This project implements a shopping agent system using CrewAI's multi-agent architecture. The system consists of three specialized agents working together to provide a complete shopping experience:
 
 1. **Orchestrator Agent**: Manages the conversation flow, understands user intent, and coordinates between the other agents
@@ -11,7 +14,6 @@ This project implements a shopping agent system using CrewAI's multi-agent archi
 3. **Cart Agent**: Handles the shopping cart operations and checkout process
 
 ## Features
-
 - Natural language interaction with the shopping system
 - Product search and retrieval from local Excel knowledge base
 - Product recommendations based on user preferences
@@ -20,7 +22,6 @@ This project implements a shopping agent system using CrewAI's multi-agent archi
 - Order confirmation with details saved to CSV and TXT files
 
 ## Technologies Used
-
 - Python 3.8+
 - CrewAI framework for multi-agent architecture
 - pandas for data manipulation
@@ -31,7 +32,6 @@ This project implements a shopping agent system using CrewAI's multi-agent archi
 - Local database integration via Excel
 
 ## How It Works
-
 1. **Conversation Flow**:
    - The Orchestrator Agent greets the user and understands their shopping intent
    - User requests are analyzed and routed to the appropriate specialized agent
@@ -50,20 +50,40 @@ This project implements a shopping agent system using CrewAI's multi-agent archi
    - Order confirmation is presented to the user
 
 ## Example Interaction
-
 ```
 Agent: Hi! I'm your shopping assistant. How can I help you today?
 User: I'm looking for a laptop.
-Agent: I'd be happy to help you find a laptop. Could you tell me what specifications or features you're looking for?
+Agent: I'd be happy to help you find a laptop. Could you tell me what 
+       specifications or features you're looking for?
 User: I need one with at least 16GB RAM and an i7 processor.
 Agent: I found 3 laptops matching your criteria:
-1. Dell XPS 15 - i7, 16GB RAM, 512GB SSD - $1,299
-2. HP Spectre x360 - i7, 16GB RAM, 1TB SSD - $1,499
-3. Lenovo ThinkPad X1 - i7, 32GB RAM, 1TB SSD - $1,799
-Which one would you like to know more about or add to your cart?
+       1. Dell XPS 15 - i7, 16GB RAM, 512GB SSD - $1,299
+       2. HP Spectre x360 - i7, 16GB RAM, 1TB SSD - $1,499
+       3. Lenovo ThinkPad X1 - i7, 32GB RAM, 1TB SSD - $1,799
+       Which one would you like to know more about or add to your cart?
 User: I'll take the Dell XPS 15.
-Agent: Great choice! I've added the Dell XPS 15 to your cart. Would you like to continue shopping or proceed to checkout?
+Agent: Great choice! I've added the Dell XPS 15 to your cart. 
+       Would you like to continue shopping or proceed to checkout?
 User: Let's checkout.
 Agent: Please provide the following information to complete your order:
-...
+       ...
 ```
+
+## 🚀 Getting Started
+```bash
+# Clone the repository
+git clone https://github.com/Aisha1124/Shopping_Agent
+
+# Navigate to project directory
+cd Shopping_Agent
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the agent
+python main.py
+
+
+## 🤝 Connect
+Built by **[Aisha Siddiqua](https://linkedin.com/in/aisha-siddiqua-1b01a9268)** — Agentic AI Engineer  
+📧 aishasiddiqua1124@gmail.com | 🌍 Open to roles in UAE · KSA · Qatar
